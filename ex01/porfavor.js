@@ -1,4 +1,4 @@
-const lista = [1,2,3,4,5,"25","cu com merda"]
+const lista = [1,2,3,4,5,]
 const obj = {
     nome:"Lehzao",
     idade: 25,
